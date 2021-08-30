@@ -45,4 +45,5 @@ body {
 .movie-app>.row {
     overflow-x: auto;
     flex-wrap: nowrap;
+    scrollbar-track-color: hidden;
 }
